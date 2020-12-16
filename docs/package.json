@@ -29,7 +29,7 @@
     "@docusaurus/theme-search-algolia": "2.0.0-alpha.65",
     "classnames": "2.2.6",
     "file-loader": "^6.1.0",
-    "mermaid": "8.6.4",
+    "mermaid": "8.8.3",
     "node-fetch": "^2.6.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
