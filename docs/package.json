@@ -28,7 +28,7 @@
     "@docusaurus/theme-classic": "2.0.0-alpha.65",
     "@docusaurus/theme-search-algolia": "2.0.0-alpha.65",
     "classnames": "2.2.6",
-    "file-loader": "^6.1.0",
+    "file-loader": "^6.2.0",
     "mermaid": "8.6.4",
     "node-fetch": "^2.6.1",
     "react": "16.13.1",
